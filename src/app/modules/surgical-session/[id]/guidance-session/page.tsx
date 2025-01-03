@@ -39,7 +39,7 @@ const GuidanceSession: FC = () => {
             type: 'camera',
             id: 'endo-cam',
             content: {
-                type: 'camera',
+                type: 'cameras',
                 id: 'endo-cam',
                 cameraType: 'endo',
                 isLive: true,
